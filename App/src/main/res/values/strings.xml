@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ejemplo</string>
+    <string name="entero_2">Entero 2</string>
+    <string name="entero_1">Entero 1</string>
+    <string name="escriba_aqui1">escriba aqui</string>
+    <string name="escriba_aqui2">escriba aqui</string>
+    <string name="sumar">Sumar</string>
+    <string name="mutiplicar">Mutiplicar</string>
+    <string name="restar">Restar</string>
+    <string name="dividir">Dividir</string>
+    <string name="resultado">Resultado</string>
+</resources>
